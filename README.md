@@ -1,6 +1,7 @@
 ![Git and Github](https://pbs.twimg.com/media/FZ_aTTqWYAMlVPe?format=jpg&name=medium)
 
 In this repo, you'll learn how to use Git and Github.
+
 0. What is Git?
 1. Install git
 2. Set username and email
