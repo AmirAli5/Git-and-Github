@@ -2,7 +2,7 @@
 
 In this repo, all about Git and Github. Git is open-source version control software, used for managing and tracking file revisions. It can be used with any file type, but is most often used for tracking code files. Git is the most widely used version control system in software development, and GitHub leverages this technology for its service, hence its name.
 
-Topics that are covered:
+Topics that are covered: <br>
 0. What is Git?
 1. Install git
 2. Set username and email
